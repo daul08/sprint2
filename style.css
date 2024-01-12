@@ -1,0 +1,250 @@
+.header header{
+    background-color: rgb(66,118,165);
+    display: flex;
+    height: 30px; 
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;  
+}
+.first {
+    padding-left: 200px;
+    padding-top: 5px;
+    padding-right: 120px;
+}
+.parent {
+    background-color:gray;
+    padding: 20px;
+}
+.body {
+    background-color: rgb(233,234,238);
+    padding-top:  10px;
+    padding-left: 200px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.body div{
+  border-radius: 5px;
+}
+li {
+    list-style-type: none;
+    padding-bottom: 10px;  
+  }
+  li a {
+    text-decoration: none;
+  }
+
+  
+  .menu li {
+    cursor: pointer;
+  }
+  .menu {
+    padding: 0;
+    margin: 0;
+    width: 100px;
+  }
+  .second {
+    width: 200px;
+  }
+  .second div {
+    background-color: white;
+    margin-bottom: 5px;
+  }
+  .second img {
+    padding: 5px;
+    padding-bottom: 0px;
+    width: 190px;
+  }
+  .second button {
+    width: 95%; 
+    margin: 5px; 
+  }
+  .secondB p{
+    margin: 0;
+  }
+  .secondB2 p{
+    font-size: smaller;
+  }
+  .secondB img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+  .secondB2 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .secondB2 div {
+    padding: 1px;
+    text-align: center
+  }
+  .thrid {
+    margin-left: 10px;
+    width: 500px;
+  }
+  .thrid div {
+    margin-bottom: 10px;
+    background-color: white;
+  }
+  .smaller {
+    font-size: smaller;
+  }
+  .small {
+    font-size: small;
+  }
+  .a1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  .a1 p {
+    margin: 0;
+  }
+  .a2 {
+    display: flex;
+  }
+  .a2 div {
+    padding: 10px;
+    padding-right: 30px;
+  }
+  .a2 p {
+    margin: 0;
+    font-size: smaller;
+  }
+  .a3 {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px
+  }
+  .a3 div {
+    text-align: center
+  }
+  .a3 p {
+    margin: 0;
+  }
+  .b1 {
+    display: flex;
+    justify-content: space-between;
+  }
+  .b1 img {
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+  }
+  .c1 {
+    display: flex;
+  }
+  .c1 p{
+    margin: 0;
+    padding: 3px;
+  }
+  .c1 div{
+    margin-bottom: 0;
+  }
+  .c {
+    padding: 10px;
+  }
+  .second2 {
+    width: 500px;
+  }
+  .second2 div {
+    background-color: white;
+  }
+  .flex-d {
+    display: flex;
+  }
+  .padding-l {
+    padding-left: 10px;
+  }
+  .padding-r {
+    padding-right: 5px;
+  }
+  .backgroud {
+    background-color: #6795B8;
+  }
+  .justify-c {
+    justify-content: space-between;
+  }
+  .padding-r10 {
+    padding-right: 10px;
+  }
+  .padding-t10 {
+    padding-top: 12px;
+  }
+  .margin0 {
+    margin: 0;
+  }
+  .color-white {
+    color: white;
+  }
+  .border-white {
+    border-color: #6795B8;
+  }
+  .medium {
+    font-size: medium;
+  }
+  .padding {
+    padding: 10px;
+  }
+  .margint-3 {
+    margin-top: 3px;
+  }
+  .color-grey{
+    color: gainsboro;
+  }
+  .color-9EBCD2 {
+    color: #227199;
+  }
+  .color-A1A4A5 {
+    color: #A1A4A5;
+  }
+  .color-A1B3C7 {
+    color: #A1B3C7;
+  }
+  .padingl-5 {
+    padding-left: 5px;
+  }
+  .padingt-5 {
+    padding-top: 5px;
+  }
+  .padingt-10 {
+    padding-top: 10px;
+  }
+  .padding-5 {
+    padding: 5px;
+  }
+  .thrid2 {
+    width: 200px;
+    margin-left: 10px;
+  }
+  .thrid2 div {
+    background-color: white;
+  }
+  .marginB-10 {
+    margin-bottom: 10px;
+  }
+  .imgC {
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  .xsmall {
+    font-size: x-small;
+  }
+  .padingt-3 {
+    padding-top: 3px;
+  }
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+  
+  
